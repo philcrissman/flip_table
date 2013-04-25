@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/flip_table
+lib/flip_table.rb
+test/test_flip_table.rb
