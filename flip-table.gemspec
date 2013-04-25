@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = "flip-table"
-  s.version = "0.0.1.20130425080846"
+  s.version = "0.0.1.20130425084634"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["philcrissman"]
@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.executables = ["flip_table"]
   s.extra_rdoc_files = ["History.txt", "Manifest.txt", "README.txt"]
   s.files = [".autotest", "History.txt", "Manifest.txt", "README.txt", "Rakefile", "bin/flip_table", "lib/flip_table.rb", "test/test_flip_table.rb", ".gemtest"]
-  s.homepage = "http://philcrissman.com/gems/flip-table"
+  s.homepage = "http://github.com/philcrissman/flip_table"
   s.rdoc_options = ["--main", "README.txt"]
   s.require_paths = ["lib"]
   s.rubyforge_project = "flip-table"

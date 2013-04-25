@@ -1,6 +1,6 @@
 = flip-table
 
-* http://philcrissman.com/gems/flip-table
+* http://github.com/philcrissman/flip_table
 
 == DESCRIPTION:
 
@@ -18,7 +18,7 @@ A command line tool for showing a little angry emoticon flipping over a table. F
 
 Command line: run
 
-  flip-table
+  flip_table
 
 And see:
 
